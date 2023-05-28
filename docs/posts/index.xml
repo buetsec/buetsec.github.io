@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on BUET Cyber Security Club</title>
+    <link>https://buetsec.github.io/posts/</link>
+    <description>Recent content in Posts on BUET Cyber Security Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://buetsec.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Days of Pentesting</title>
+      <link>https://buetsec.github.io/posts/30-days-of-pentest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buetsec.github.io/posts/30-days-of-pentest/</guid>
+      <description>Day 1 - Try Hack Me Room Owasp top 10  https://tryhackme.com/room/owasptop10  Day 2 - Try Hack Me Room Owasp Juice Shop  https://tryhackme.com/room/owaspjuiceshop  Day 3 - Try Hack Me Room Windows Fundamentals  https://tryhackme.com/room/windowsfundamentals1xbx https://tryhackme.com/room/winadbasics  Day 4 - Information Disclosure Portswigger Academy  https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-version-control-history https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-authentication-bypass  Day 5 - XSS Portswigger Academy  https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-href-attribute-sink  Day 6 - Mr r3b0t Vulnhub  https://www.</description>
+    </item>
+    
+    <item>
+      <title>Beginner’s Guide to Capture The Flag 🏴</title>
+      <link>https://buetsec.github.io/posts/beginners-guide-to-ctf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buetsec.github.io/posts/beginners-guide-to-ctf/</guid>
+      <description>Getting Started নিচের জিনিসগুলায় একটু ভালো ধারনা শুরুতে থাকা লাগবে। আর কোনো কিছু না বুঝলে, না জানলে খালি Google করবা। শুরুতে একটু বেশিই ঘাটাঘাটি করে শিখা লাগবে, এইটা একটা ইম্পর্ট্যান্ট ফেজ।
+Basic Theory
+ Cryptography XOR, Ciphers, Hashing, Encryption (Basic) Modular Arithmetic (Advanced)  Programming Language
+ Python (একদম মাস্ট, সিটিএফ এর সব চ্যালেঞ্জ পাইথন দিয়ে সলভ করা যায়) C++  Tools
+ Crypto Tools: cyberchef, dcode.fr Linux  Practice Platforms Beginner Level:</description>
+    </item>
+    
+    <item>
+      <title>Intra BUET Capture The Flag 2023 Problemset</title>
+      <link>https://buetsec.github.io/posts/intra-buet-ctf-2023-problemset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buetsec.github.io/posts/intra-buet-ctf-2023-problemset/</guid>
+      <description>Problemset Link You can find the problemset here: https://github.com/buetsec/intra-buet-ctf-2023-problemset
+Problems Category  Cryptography Web Forensics Reverse Engineering Steganography OSINT Misc  Flag Format The flag format used here was
+ buet{some_text} BUET{some_text}  Contributions  rng70 (Al Arafat Tanin) · GitHub fazledyn (Ataf Fazledin Ahamed) · GitHub MrMajumder (Shafayat Hossain Majumder) · GitHub tawsifshahriar7 (Tawsif Shahriar) · GitHub alfahadarc (Abdullah Al Fahad) · GitHub C0d3Hunt3r (Shehabul-Islam-Sawraz) · GitHub Sourov72 (Sourov Jajodia) · GitHub Fahmid-Al-Rifat · GitHub ZuhairZaki (S.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Road Map</title>
+      <link>https://buetsec.github.io/posts/tryhackme-roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buetsec.github.io/posts/tryhackme-roadmap/</guid>
+      <description>Hey Guys, here is a list of 350+ Free TryHackMe rooms to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+All the rooms mentioned here are absolute free. ENJOY!!
+Maintainer  This repository is maintained by Al Arafat Tanin | rng70. For any suggestion feel free to reach me.
+ Table of Contents    Name of Topic Number of Rooms Number of Completed Rooms     Introductory Rooms 10    Linux Fundamentals 5 5   Windows Fundamentals 3    Basic Rooms 9    Reconnaissance 10    Scripting 8    Networking 7    Tooling 17    Crypto &amp;amp; Hashes 5    Steganography 6    Web 27    Android 1    Forensics 5    Wifi Hacking 1    Reverse Engineering 11    Malware Analysis 7    Privilege Escalation 13    Windows 7    Active Directory 5    PCAP Analysis 4    Buffer Overflow 4    Easy CTF 58    Medium CTF 73    Hard CTF 38    Misc 35    Special Events 9    Total Rooms: = 378     Intro Rooms    TryHackMe | Welcome</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://buetsec.github.io/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/posts/30-days-of-pentest/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/about/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/posts/beginners-guide-to-ctf/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/categories/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/contact/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/posts/intra-buet-ctf-2023-problemset/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/posts/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/search/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/tags/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/team/</loc>
+  </url><url>
+    <loc>https://buetsec.github.io/posts/tryhackme-roadmap/</loc>
+  </url>
+</urlset>
